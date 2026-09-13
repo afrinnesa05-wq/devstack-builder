@@ -1,4 +1,5 @@
-import logo from "../assets/logo-text.png"
+import { text } from "stream/consumers";
+
 
 const Nav = () => {
   return (
@@ -72,7 +73,7 @@ const Nav = () => {
         {/* Your Existing Logo */}
         <a href="/" className="ml-1">
           <img
-            src="/src/assets/logo-text.png"
+            src={logo-text}
             alt="DevStack"
             className="w-32 md:w-36 lg:w-40"
           />
