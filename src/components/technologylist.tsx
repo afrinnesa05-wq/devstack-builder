@@ -1,4 +1,4 @@
-import TechnologyCard from "./technologyCard";
+import TechnologyCard from "./technologycard";
 
 type Technology = {
   id: string;
