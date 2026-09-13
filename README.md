@@ -6,11 +6,11 @@ Users can add technologies to their stack, remove individual technologies, or re
 
 ##  Live Site
 
-Add your live site link here.
+https://curious-gnome-7367ce.netlify.app/
 
 ## GitHub Repository
 
-Add your GitHub repository link here.
+https://github.com/afrinnesa05-wq/devstack-builder
 
 ## Technologies Used
 
@@ -130,3 +130,6 @@ Then open the local URL shown in the terminal.
 
 
 Made with using React and TypeScript.
+##  Project Status
+
+This project was built as a React and TypeScript practice project.
